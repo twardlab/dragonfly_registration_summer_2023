@@ -1,0 +1,11 @@
+# Output Data
+*.jpg
+*.swc
+*.npz
+*.nii
+*.png
+*.csv
+*.vtk
+
+# Checkpoints
+*.ipynb_checkpoints
