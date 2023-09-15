@@ -6,6 +6,8 @@
 *.png
 *.csv
 *.vtk
+dragonfly_outputs/
+gaussian_parameters/
 
 # Checkpoints
 *.ipynb_checkpoints
