@@ -10,6 +10,7 @@
 *.zip
 dragonfly_outputs/
 gaussian_parameters/
+distance_parameters/
 
 # Checkpoints
 *.ipynb_checkpoints
