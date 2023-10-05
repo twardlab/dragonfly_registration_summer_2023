@@ -2,6 +2,7 @@
 *.jpg
 *.swc
 *.npz
+*.npy
 *.nii
 *.png
 *.csv
